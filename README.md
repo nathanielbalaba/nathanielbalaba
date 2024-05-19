@@ -1,35 +1,76 @@
-[![MasterHead](https://i.pinimg.com/564x/9e/4e/2a/9e4e2a81b4f28ddfbd848d9a4348edf7.jpg)](https://pin.it/7ylDYTtKl)
-<h1 align="center">Hi 👋, I'm Nathaniel Balaba</h1>
-<h3 align="center">A dedicated second-year BSIT student, driven by a passion for technology and innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/a9/e1/2a/a9e12aba74b9b66c1b5ef8fe2957a020.jpg">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nathanielbalaba&label=Profile%20views&color=0e75b6&style=flat" alt="nathanielbalaba" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanielbalaba&label=Profile%20views&color=0e75b6&style=flat" alt="nathanielbalaba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathanielbalaba" alt="nathanielbalaba" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nathaniel+balaba!;" />
+</h1>
 
-- 🔭 I’m currently working on **Olshco-School-Library-Research-Manager**
+<h3 align="center">A dedicated second-year BSIT student from the Philippines.</h3>
 
-- 🌱 I’m currently learning **Python,Django**
+<br/>
 
-- 🤝 I’m looking for help with **Python**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Olshco-School-Library-Research-Manager**
+ 
+ 🌱 I’m currently learning **Python, Django, SQL**
 
-- 💬 Ask me about **Python**
+💬 Ask me about **Python, Django, SQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 📫 How to reach me **nathanielbalaba92@gmail.com**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- ⚡ Fun fact **Im not funny person**
+ </div>
+ 
+<div align="center"> 
+  <a href="nathanielbalaba92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/nathanielbalaba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nathanielbalaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nathanielbalaba" height="30" width="40" /></a>
-</p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,Django,git r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c#,java,,mysql" /><br>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanielbalaba&show_icons=true&locale=en&layout=compact" alt="nathanielbalaba" /></p>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nathanielbalaba/nathanielbalaba/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanielbalaba&show_icons=true&locale=en" alt="nathanielbalaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanielbalaba&" alt="nathanielbalaba" /></p>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="http://www.github.com/nathanielbalaba"><img src="https://github-readme-stats.vercel.app/api?username=nathanielbalaba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nathanielbalaba's GitHub stats" /></a>
+  <br>
+  <a href="http://www.github.com/nathanielbalaba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanielbalaba&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <br>
+  <a href="https://github.com/nathanielbalaba" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielbalaba&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+
+<br/>
